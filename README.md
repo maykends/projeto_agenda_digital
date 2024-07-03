@@ -1,15 +1,15 @@
-## Projeto de Clinica para Programação p/ Internet 2
+## Projeto de Clinica que possui uma função de Agendamento interno
 
 No que consite este projeto:
 - Administrar medicos e especialidade e agendas
-- Criar uma agenda para disponibilizar as consultas
+- Criar uma agenda para disponibilizar as consultas para usuários comuns
 - Permitir o usuario escolher um consulta em dia e horario de acordo com agenda do medico.
 
 ## Configurando o ambiente para executar a aplicação web.
 Faça o download deste repositorio:
 
 ```
-$ git clone XXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+$ git clone https://github.com/maykends/projeto_agenda_digital
 ```
 
 Crie um maquina virtual e instale a bibliotecas disponiveis no 
